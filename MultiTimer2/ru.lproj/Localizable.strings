@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MultiTimer2
+
+  Created by User on 11.09.2021.
+  
+*/
+"text.enterTimerName" = "Enter timer name";
+"text.enterTimerTime" = "Enter time";
+
+"Button.name.start" = "Start";
+"Button.name.stop" = "Stop";
+
+"Error.error" = "Error";
+"Error.fail" = "Wrong name of timer, or  time";
+
+"Item.deleted" = "timer was done";
+"item.completed" = "Done";
+"Item.title" = "Multi Timer";
+"Item.wrongValue" = "Wrong value";
+

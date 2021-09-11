@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MultiTimer2
+
+  Created by User on 11.09.2021.
+  
+*/
+"text.enterTimerName" = "Введите имя таймера";
+"text.enterTimerTime" = "Введите время";
+
+"Button.name.start" = "Старт";
+"Button.name.stop" = "Стоп";
+
+"Error.error" = "Ошибка";
+"Error.fail" = "Неправильное название таймера или введен неверный период его работы";
+
+"Item.deleted" = "Таймер закончил работу и удален";
+"Item.completed" = "Выполненно";
+"Item.title" = "Мультитаймер";
+"Item.wrongValue" = "Неправильное значение";
+

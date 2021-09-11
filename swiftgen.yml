@@ -1,0 +1,11 @@
+strings:
+  inputs: MultiTimer2/Base.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: MultiTimer2/SwiftGen/Strings.swift
+xcassets:
+  inputs:
+    - MultiTimer2/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: MultiTimer2/SwiftGen/Assets.swift
